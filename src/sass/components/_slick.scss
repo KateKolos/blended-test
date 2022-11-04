@@ -1,0 +1,18 @@
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.one-container {
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.slick-track {
+    display: flex;
+    align-items: center;
+}
